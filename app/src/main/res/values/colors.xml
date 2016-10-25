@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="white">#ececec</color>
+    <color name="gray">#38383838</color>
+    <color name="green">#06b400</color>
+    <color name="blue">#3A76C9</color>
+    <color name="colordashboard">#2196f3</color>
+    <color name="colorcredit">#009688</color>
+    <color name="colorcategories1">#f44336</color>
+    <color name="colorcategories2">#4caf50</color>
+    <color name="col_db_account">#580058</color>
+    <color name="col_db_income">#4c983b</color>
+    <color name="col_db_expenses">#f44336</color>
+    <color name="col_db_credit">#ff8400</color>
+    <color name="col_db_transfer">#9c2282</color>
+    <color name="colorblue">#0265B0</color>
+</resources>

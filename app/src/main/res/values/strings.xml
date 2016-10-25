@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fake Mobils</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="admin">Admin</string>
+    <string name="profil1">Indra Putra</string>
+    <string name="profil2">Android Developer</string>
+    <string name="contact">Jl.Caringin</string>
+    <string name="contact2">Bandung, Jawa Barat</string>
+    <string name="title_activity_home">Home</string>
+    <string name="email">indraputraa4@gmail.com</string>
+    <string name="home">Home</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="err_email">Youremail@gmail.com</string>
+    <string name="err_null_password">Please input password</string>
+    <string name="err_null_email">Please input email</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_splash">Splash</string>
+</resources>
